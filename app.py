@@ -43,4 +43,4 @@ if uploaded_file:
         st.session_state.chat_history.append({"role": "assistant", "content": answer})
 
 else:
-    st.info("Bhai, pehle CSV file upload karo sidebar mein!")
+    st.info("First upload the file for continue.....")
