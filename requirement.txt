@@ -1,0 +1,7 @@
+streamlit
+pandas
+gemini
+python-dotenv
+langchain
+langchain-community
+tiktoken
